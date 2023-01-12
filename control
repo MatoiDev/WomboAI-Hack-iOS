@@ -1,0 +1,9 @@
+Package: dr.erast.dreamhack
+Name: DreamHack
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A Hack to WomboAI Dream App.
+Maintainer: Erast
+Author: Erast
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

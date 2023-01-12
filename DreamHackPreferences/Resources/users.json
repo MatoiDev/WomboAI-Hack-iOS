@@ -1,0 +1,26 @@
+{
+  "id" : "KpUvIzj52DamUo2GaRLoPzKCuTX2",
+  "is_public" : true,
+  "profile_bio" : "Hacked by Erast",
+  "created_at" : "2023-01-11T18:02:56.547000+00:00",
+  "website_link" : "https://github.com/MatoiDev",
+  "banner_url" : {
+    "download" : "https://images.wombo.art/UserBannerPhotos/KpUvIzj52DamUo2GaRLoPzKCuTX2.jpg",
+    "upload" : "https://upload-images.wombo.art/UserBannerPhotos/KpUvIzj52DamUo2GaRLoPzKCuTX2.jpg?Expires=1673562203&Signature=F9d3966iK0IyUTSdhX2tEyHx-XHLO0TyVaSROJ1azRFxKnhlmADHVAh0oNxtl5j8FPsX3DnC87q9uDyUxE7Yvz9ngNgHGZQrmE3i50qrT2Pf6~ClygdbE9M8rs-KNcznwUQkQYvoMcZuQ524rG3DGEB918IHhXtxG0AzUnO2xxSykFwser-EHXOw-ZuEBJJm~LDok6fl0G-tkDoc2Lk0dg3AVMbSihEX275ogE4eg8J8nWwOazC24~QBinAFVvmOBmYx5yUCsZTQeQfiWtCZF~5P7aHV-2-l2OHLYIV~0ZUQDdo6CH7PsCrx79MQ5MUUP-SFtSBpgE6DCDtsUtT9vw__&Key-Pair-Id=K1ZXCNMC55M2IL"
+  },
+  "deleted_at" : null,
+  "is_flagged" : false,
+  "photo_url" : {
+    "download" : "https://images.wombo.art/UserProfilePhotos/KpUvIzj52DamUo2GaRLoPzKCuTX2.jpg",
+    "upload" : "https://upload-images.wombo.art/UserProfilePhotos/KpUvIzj52DamUo2GaRLoPzKCuTX2.jpg?Expires=1673562203&Signature=Zr3g62kUmlm8SSr5S5ebQrDzA6kcDqLm4gpVci3Iw2JT7CL1jXz68S47aSbSTzxVxftEu~Os0Hp7lnq913i2j~uhUA~i5J-mDv4fnSDa3qdLF05M-OWHiK8QnSXM3D4FT9extT2VY8KvkJELS6zOG~m7iK1fHaSFng6LkuuXJ9ebTMMvuDzfyt1vxxnpVIEJ63nX~yp-pMcoulkwQ0mbIqa1xfGUHSTan2RdG9V-MTgHV8suGv1UWv8AAfLzDqYLo5ZWSdZUqZX-c22txZOS-Fqihfl72QRLBtcAHVjuj0BEbzm3nqm-lTSRXnLYsBqqJtdJ8PhDNVBsBDGi8Pb2Kw__&Key-Pair-Id=K1ZXCNMC55M2IL"
+  },
+  "updated_at" : "2023-01-11T18:02:56.547000+00:00",
+  "username" : "Hacked by Erast",
+  "user_subscriptions" : {
+    "is_premium" : true,
+    "discord_id" : null,
+    "stripe_id" : null,
+    "expires_on" : "7777-07-15T08:15:14",
+    "premium_code" : "U6NO0XT7"
+  }
+}

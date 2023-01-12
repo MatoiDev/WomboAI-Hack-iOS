@@ -1,0 +1,12 @@
+{
+  "is_premium" : true,
+  "discord_id" : null,
+  "stripe_id" : null,
+  "expires_on" : "7777-07-15T08:15:14",
+  "premium_code" : "U6NO0XT7",
+  "latest_revenuecat_subscriber" : {
+    "registered_fulfillment_product_identifier" : "$rc_annual",
+    "expires_on" : "7777-07-15T08:15:14",
+    "origin_entitled_store" : "app_store"
+  }
+}
